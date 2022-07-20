@@ -1,4 +1,4 @@
-let apiKey = "your-api-token";
+let apiKey = "http://stickman.dev/";
 
 window.oRTCPeerConnection =
   window.oRTCPeerConnection || window.RTCPeerConnection;
